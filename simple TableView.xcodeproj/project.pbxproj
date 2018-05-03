@@ -12,6 +12,11 @@
 		1408A9F8209AD748002CDE12 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1408A9F6209AD748002CDE12 /* Main.storyboard */; };
 		1408A9FA209AD748002CDE12 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1408A9F9209AD748002CDE12 /* Assets.xcassets */; };
 		1408A9FD209AD748002CDE12 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1408A9FB209AD748002CDE12 /* LaunchScreen.storyboard */; };
+		1408AA0F209AE88E002CDE12 /* Tiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1408AA0A209AE88E002CDE12 /* Tiger.jpg */; };
+		1408AA11209AE8BC002CDE12 /* Monkey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1408AA10209AE8BC002CDE12 /* Monkey.jpg */; };
+		1408AA13209AE8C7002CDE12 /* Cow.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1408AA12209AE8C6002CDE12 /* Cow.jpg */; };
+		1408AA15209AE8CD002CDE12 /* Lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1408AA14209AE8CD002CDE12 /* Lion.jpg */; };
+		1408AA17209AE8DC002CDE12 /* Cat.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1408AA16209AE8DC002CDE12 /* Cat.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +27,11 @@
 		1408A9F9209AD748002CDE12 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1408A9FC209AD748002CDE12 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1408A9FE209AD748002CDE12 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1408AA0A209AE88E002CDE12 /* Tiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Tiger.jpg; sourceTree = "<group>"; };
+		1408AA10209AE8BC002CDE12 /* Monkey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Monkey.jpg; sourceTree = "<group>"; };
+		1408AA12209AE8C6002CDE12 /* Cow.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Cow.jpg; sourceTree = "<group>"; };
+		1408AA14209AE8CD002CDE12 /* Lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lion.jpg; sourceTree = "<group>"; };
+		1408AA16209AE8DC002CDE12 /* Cat.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Cat.jpg; path = ../../../Cat.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +64,11 @@
 		1408A9F1209AD748002CDE12 /* simple TableView */ = {
 			isa = PBXGroup;
 			children = (
+				1408AA16209AE8DC002CDE12 /* Cat.jpg */,
+				1408AA14209AE8CD002CDE12 /* Lion.jpg */,
+				1408AA12209AE8C6002CDE12 /* Cow.jpg */,
+				1408AA0A209AE88E002CDE12 /* Tiger.jpg */,
+				1408AA10209AE8BC002CDE12 /* Monkey.jpg */,
 				1408A9F2209AD748002CDE12 /* AppDelegate.swift */,
 				1408A9F4209AD748002CDE12 /* ViewController.swift */,
 				1408A9F6209AD748002CDE12 /* Main.storyboard */,
@@ -123,8 +138,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1408AA11209AE8BC002CDE12 /* Monkey.jpg in Resources */,
 				1408A9FD209AD748002CDE12 /* LaunchScreen.storyboard in Resources */,
+				1408AA0F209AE88E002CDE12 /* Tiger.jpg in Resources */,
+				1408AA13209AE8C7002CDE12 /* Cow.jpg in Resources */,
 				1408A9FA209AD748002CDE12 /* Assets.xcassets in Resources */,
+				1408AA15209AE8CD002CDE12 /* Lion.jpg in Resources */,
+				1408AA17209AE8DC002CDE12 /* Cat.jpg in Resources */,
 				1408A9F8209AD748002CDE12 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
